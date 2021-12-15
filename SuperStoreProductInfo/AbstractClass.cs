@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace SuperStoreProductInfo
 {
+    // absract class
     public abstract class AbstractClass
     {
+        // abstract methods
         public abstract void introduction();
         public abstract void menu_list();
         public abstract void press_any_key();
