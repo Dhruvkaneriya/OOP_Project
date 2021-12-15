@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SuperStoreProductInfo
 {
-    // base class 
+    // parent class 
     public class ProductOptions
     {
             public int ID { get; set; }
