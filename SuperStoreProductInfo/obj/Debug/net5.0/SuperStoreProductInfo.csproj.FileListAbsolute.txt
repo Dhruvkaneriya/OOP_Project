@@ -1,0 +1,16 @@
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\bin\Debug\net5.0\SuperStoreProductInfo.exe
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\bin\Debug\net5.0\SuperStoreProductInfo.deps.json
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\bin\Debug\net5.0\SuperStoreProductInfo.runtimeconfig.json
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\bin\Debug\net5.0\SuperStoreProductInfo.runtimeconfig.dev.json
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\bin\Debug\net5.0\SuperStoreProductInfo.dll
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\bin\Debug\net5.0\ref\SuperStoreProductInfo.dll
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\bin\Debug\net5.0\SuperStoreProductInfo.pdb
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\obj\Debug\net5.0\SuperStoreProductInfo.csproj.AssemblyReference.cache
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\obj\Debug\net5.0\SuperStoreProductInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\obj\Debug\net5.0\SuperStoreProductInfo.AssemblyInfoInputs.cache
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\obj\Debug\net5.0\SuperStoreProductInfo.AssemblyInfo.cs
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\obj\Debug\net5.0\SuperStoreProductInfo.csproj.CoreCompileInputs.cache
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\obj\Debug\net5.0\SuperStoreProductInfo.dll
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\obj\Debug\net5.0\ref\SuperStoreProductInfo.dll
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\obj\Debug\net5.0\SuperStoreProductInfo.pdb
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\OOP_Project\SuperStoreProductInfo\obj\Debug\net5.0\SuperStoreProductInfo.genruntimeconfig.cache
