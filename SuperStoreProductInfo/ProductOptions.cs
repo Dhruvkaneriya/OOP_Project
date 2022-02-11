@@ -9,7 +9,7 @@ namespace SuperStoreProductInfo
     // parent class 
     public class ProductOptions
     {
-            public int ID { get; set; }
+            public int ID { get; }
             public string Product_Category { get; set; }
             public string Product_Name { get; set; }
             public string Brand { get; set; }
